@@ -2,7 +2,7 @@
 ## The scaffolding for the St. Java Medical Center
 
 ### Introduction
-As you can see we have an empty maven project genereted with the maven-quickstart-archetype. The contents of the project is now like this:
+As you can see we have an empty maven project generated with the maven-quickstart-archetype. The contents of the project is now like this:
 
     .
     ├── README.md
