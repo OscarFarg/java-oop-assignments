@@ -7,7 +7,7 @@ Each assignment builds on the next assignment so you'll have to complete an assi
 We will be building a digital hospital where patients will be able to visit for all there medical needs.
  
 The solutions for each assignment can be found in the solutions branch.
- 
-If you have any suggestions for improvement please let me know or sent a pull-request.
- 
+  
 **OOP.1** Create the scaffolding for the St. Java Medical Center
+
+If you have any suggestions for improvement please let me know or sent a pull-request.
